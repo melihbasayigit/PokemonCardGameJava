@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Gumela';
+    src: url('fonts/Gumela.ttf');
+}
+
+.label {
+    -fx-font-family: 'Gumela';
+    -fx-font-size: 36;
+}
+
+.button .text {
+    -fx-font-family: 'Gumela';
+}
