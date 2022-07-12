@@ -8,3 +8,4 @@ If you win the turn you will get 5 points likewise you lose 5 points.<br />
 The game will keep going until all the cards are gone.<br />
 
 ![](screenshot1.png)
+![](screenshot2.png)
